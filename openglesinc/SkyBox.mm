@@ -3,7 +3,7 @@
 //  OpenGL_Template_CPLUSPLUS
 //
 //  Created by Harold Serrano on 7/25/14.
-//  Copyright (c) 2015 www.roldie.com. All rights reserved.
+//  Copyright (c) 2015 www.haroldserrano.com. All rights reserved.
 //
 
 #include "SkyBox.h"
@@ -57,7 +57,7 @@ void SkyBox::setupOpenGL(){
     //5. Dump the data into the Buffer
     /* Read "Loading data into OpenGL Buffers" if not familiar with loading data
     using glBufferSubData.
-    http://www.www.roldie.com/blog/loading-vertex-normal-and-uv-data-onto-opengl-buffers
+    http://www.www.haroldserrano.com/blog/loading-vertex-normal-and-uv-data-onto-opengl-buffers
     */
     
     glBufferData(GL_ARRAY_BUFFER, sizeof(sky_vertices), NULL, GL_STATIC_DRAW);
@@ -88,7 +88,7 @@ void SkyBox::setupOpenGL(){
     
     /*Since we are going to start the rendering process by using glDrawElements
      We are going to create a buffer for the indices. Read "Starting the rendering process in OpenGL"
-     if not familiar. http://www.www.roldie.com/blog/starting-the-primitive-rendering-process-in-opengl */
+     if not familiar. http://www.www.haroldserrano.com/blog/starting-the-primitive-rendering-process-in-opengl */
     
     //11. Create a new buffer for the indices
     GLuint elementBuffer;
