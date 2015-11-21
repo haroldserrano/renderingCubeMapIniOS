@@ -292,7 +292,7 @@ character->draw();
 </pre>
 
 ###Credits
-[Harold Serrano](www.haroldserrano.com) Author of this repository and post
+[Harold Serrano](http://www.haroldserrano.com) Author of this repository and post
 
 ###Questions
 If you have any questions about this repository, feel free to contact me at http://www.haroldserrano.com/contact/
