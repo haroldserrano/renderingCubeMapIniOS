@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BDEB2BF0-8CAF-4BA1-97D7-DA951FD07574</string>
+	<key>IDESourceControlProjectName</key>
+	<string>openglesinc</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ED74EAA7C9C7FD10BE02AE9BEFA9920BEE83140F</key>
+		<string>https://github.com/learncgdemy/openglesinc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>openglesinc/openglesinc.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ED74EAA7C9C7FD10BE02AE9BEFA9920BEE83140F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/learncgdemy/openglesinc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ED74EAA7C9C7FD10BE02AE9BEFA9920BEE83140F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED74EAA7C9C7FD10BE02AE9BEFA9920BEE83140F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>openglesinc</string>
+		</dict>
+	</array>
+</dict>
+</plist>
